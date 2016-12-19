@@ -1,0 +1,62 @@
+.container {
+	width: 33%;
+    margin: 0 auto;
+}
+
+div.main{
+width: 500px;
+	margin: 0 auto;
+	position: relative;
+	
+	background: #f3f3f3;
+	border: 1px solid #fff;
+	border-radius: 5px;
+	
+	box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+}
+
+ .header {
+	padding: 10px 30px 1px 30px;
+}
+
+ .header h1 {
+	font-family: 'Bree Serif', serif;
+	font-weight: 300;
+	font-size: 28px;
+	line-height:34px;
+	color: #414848;
+	text-shadow: 1px 1px 0 rgba(256,256,256,1.0);
+	margin-bottom: 5px;
+}
+
+.header span {
+	font-size: 14px;
+	line-height: 16px;
+	color: #678889;
+	text-shadow: 1px 1px 0 rgba(256,256,256,1.0);
+	margin-bottom: 1px;
+}
+
+th{
+	background-color: #B0C4DE;
+}
+
+.zebra-table {
+width: 100%;
+border-collapse: collapse;
+box-shadow: 0 2px 3px 1px #ddd;
+overflow: hidden;
+border:10px solid #fff;
+}
+.zebra-table th,.zebra-table td{
+font-size: 12px;
+vertical-align: top;
+padding:10px 7px;
+text-align: left;
+margin:0;
+}
+.zebra-table tbody tr:nth-child(odd) { /* Make table like zebra */
+background:#eee;
+}

@@ -1,0 +1,41 @@
+<html>
+<head>
+	<title>Katalog</title>
+</head>
+
+		<body>
+<center>
+<table width="619" border="1" bgcolor="#FFD966">
+<tr>
+    <td width="609">
+ 
+    <center>
+ <font face="calibri"><h1>
+TOKO BUKU<marquee><font face="Viner Hand ITC" color="blue">"MILIK KITA"</font></MARQUEE></H1></font>
+<table width="539" border="0" bgcolor="" >
+	<tr>
+
+				<td width="200"><b>NAMA OBAT</b></td>
+				<td width="70"><b>HARGA OBAT</b></td>
+				<td width="70"><b>SATUAN</b></td>
+				<td width="70"><b>KETERANGAN</b></td>
+				
+	</tr>
+	
+	<tr>
+            <td>BIORALIT</td>
+            <td>Rp.1000</td>
+            <td>SCH</td>
+            <td>DIARE</td>
+    </tr>
+	<tr>
+            <td>DIAPET</td>
+            <td>Rp.1500</td>
+            <td>STRIP</td>
+            <td>DIARE</td>
+    </tr>
+    <tr>
+    		<td>ENTROSTOP</td>
+    		<td>Rp.4.500</td>
+    		<td>STRIP</td>
+    		<td>DIARE</td>
